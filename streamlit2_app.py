@@ -1,3 +1,3 @@
-import streamlit
+# requirements.txt
 
-streamlit.title('Zenas Athleisure Catalog prototype')
+snowflake-connector-python
