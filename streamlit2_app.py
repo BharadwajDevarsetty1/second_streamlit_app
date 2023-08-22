@@ -1,3 +1,2 @@
-# requirements.txt
-snowflake-connector-python
-cffi==1.15.0
+import streamlit
+streamlit.title('Zena's Athleisure Catalog prototype')
